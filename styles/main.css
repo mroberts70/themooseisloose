@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2vh;
+}
+header {
+    width: 100%;
+    text-align: center;
+    padding: 2vh 0;
+    background-color: black;
+    color: whitesmoke;
+    font-variant: small-caps;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 2vh;
+}
+img {
+    max-width: 600px;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px 3px black;
+}
