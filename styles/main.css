@@ -30,3 +30,11 @@ img {
     border-radius: 10px;
     box-shadow: 3px 3px 10px 3px black;
 }
+footer {
+    background-color: black;
+    color: whitesmoke;
+    width: 100%;
+    padding: 2vh 0;
+    text-align: center;
+
+}
